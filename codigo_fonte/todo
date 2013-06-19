@@ -1,0 +1,85 @@
+todo
+
+Pegar todas as comissões existentes
+
+Pegar todas as pautas da semana
+
+Pegar os projetos de leis nas pautas
+
+salvar os que foram utilizados como prioridade
+
+Nas próximas, bater os projetos com a pauta
+
+Inserir novos projetos de lei além dos qu estão cadastrados
+
+cadastrar mais grupos par o senado
+
+Criar pauta da semana.
+
+tela de consulta pauta, aprensetar todos os projetos.. d
+rop down de situação checklist com sos coordenadores, tipo de encaminhamento que será tomado
+pegar as reunisoes do senado
+http://legis.senado.gov.br/dadosabertos/agenda/20130531/20130607/detalhe
+0800 771 COPA (2672)
+
+
+
+Atualmente, o processo é feito manualmente, da seguinte forma:
+ 
+ASPAR abre, manualmente, semanalmente, as pautas de cada comissão, no browser;
+ASPAR lê cada uma das proposições listadas, filtrando aquelas que são de interesse do MJ;
+ASPAR copia, manualmente, aquelas que são identificadas como sendo de interesse do MJ para um arquivo Word;
+ASPAR consulta os arquivos Word das semanas anteriores para verificar se há repetição de algum tema e copia esses dados no arquivo Word para esta semana;
+ASPAR leva a pauta, impressa, em 15 cópias, várias páginas por cópia, para a SAL, em uma reunião às segundas-feiras;
+A SAL, em conjunto com a ASPAR, dá encaminhamentos a cada uma das proposições, anotados à mão por cada responsável;
+Os encaminhamentos mais comuns são:
+i.      Quanto ao mérito:
+	1.       não é tema do MJ;
+	2.       indiferente;
+	3.       favorável
+	4.       contrário
+ii.      Quanto à forma de trabalho:
+	1.       Elaborar nota
+	2.       Não elaborar nota
+iii.      Quanto ao responsável
+	1.       Atribuir a um coordenador responsável
+iv.      Outras ações
+	1.       Contato com o relator e/ou
+	2.       Realização de reunião e/ou
+	3.       Divulgação de notícia
+	4.       Outros
+
+O controle do cumprimento dessas atividades é realizado na reunião da semana seguinte, em que se realiza balanço da semana anterior, mas sem um controle efetivo e formal do cumprimento das atividades determinadas anteriormente.
+Coordenador distribui a análise da proposição a um parecerista (após a reunião)
+Parecerista faz nota
+Coordenador aprova nota
+Secretário confirma a nota e autoriza envio à ASPAR
+ASPAR recebe a nota e trabalha a posição do MJ no Congresso.
+ 
+Um grande desejo da SAL e da ASPAR é a automatização desse processo e temos esperança que o formato de planilha usado para acompanhamento de ações possa ser adaptado para realizar esse tipo de atividade.
+ 
+Imagino ser possível automatizar:
+A obtenção das proposições em pauta a cada semana
+A filtragem, com base em um input humano e uma comparação a uma base de dados de projetos que são ou não são de interesse do MJ previamente cadastrados (as proposições que já estejam no banco de dados do sistema)
+A elaboração de uma listagem em formato de planilha editável, que permitam a edição rápida dos encaminhamentos da reunião.
+A possibilidade de recuperação dessa listagem em momento posterior e da vinculação dos encaminhamentos de cada reunião a cada proposição e a cada coordenador, para permitir ao Secretário melhor gerenciamento das equipes de trabalho.
+ 
+A idéia é eliminar as pautas impressas e dar os encaminhamentos da reunião por meio de um projetor usado durante a reunião. O ideal seria que cada coordenador voltasse a seu computador, abrisse o EDENS e já visse tudo que lhe foi atribuído na tela do sistema.
+ 
+Honestamente, sendo leigo no assunto, não tenho noção da complexidade de elaboração de algo nesse sentido nem se isso já está disponível, mas vou consultar com nossa equipe de tecnologia.
+ 
+Só estou tentando dar clareza ao que estamos dizendo quando falamos de um “gerador automático da pauta da reunião” e do que a SAL gostaria de ver na planilha de acompanhamento de ações.
+ 
+Qualquer dúvida, estou à disposição. Peço que nos dê sua opinião sobre a viabilidade de uma ferramenta assim, da dificuldade de sua implementação e se há alguma sugestão de algo que faça as mesmas atividades com menor complexidade.
+ 
+Coloco também nossa equipe à disposição para tentar explicar melhor esse roteiro e o processo dessa reunião que descrevi acima, inclusive os designers e os consultores de TI, que podem pensar as melhores formas de exibição dos dados e menus para adequação do sistema a essa funcionalidade.
+ 
+Abs,
+ 
+Márcio
+ 
+P.S. Na Câmara, o webservice para “obter votação de proposição” está funcionando bem, o que poderia ser melhor de usar que a importação de todos os dados de votações que, pelo seu último email, encheram bastante nossos bancos de dados.
+Aqui, as instruções de uso: http://www2.camara.leg.br/transparencia/dados-abertos/dados-abertos-legislativo/webservices/proposicoes-1/obtervotacaoproposicao
+E essa, a listagem de votação da MPV 595/2012 – MP dos Portos: http://www.camara.gov.br//SitCamaraWS/Proposicoes.asmx/ObterVotacaoProposicao?tipo=MPV&numero=595&ano=2012
+Sugiro que avaliemos bem a possibilidade de uso desse script de obtenção de dados a cada demanda, ao invés de encher o sistema de informações que poderemos não fazer uso no futuro.
+ 
