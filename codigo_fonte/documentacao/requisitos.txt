@@ -1,0 +1,76 @@
+
+Cadastro de Ligações
+	Origem da Ligação
+		Nome
+		Cargo
+		Órgão
+	Destino da Ligação
+		Nome
+		Cargo
+		Órgão
+
+	Informações
+		Situação
+		Data
+		Hora
+		Telefones
+		Observações
+
+Cadastro de Projetos de Lei
+	Identificação
+		Tipo
+		Número
+		Ano
+		Título
+		Descrição
+		Relator
+	Acompanhamento
+		Prioridade
+		Situação
+	Documentos
+	Histórico de Pautas
+
+Cadastro de Pautas
+	Pauta
+		Projetos
+		Comissão
+		Mérito
+		Encaminhamento
+		Situação Encaminhamento
+		Responsável
+		Observações
+
+Cadastro de Pessoas 
+	Identificação
+		Tratamentos
+		Nome
+		Sobrenome
+		Data de Nascimento
+	Ocupação
+		Cargo
+		Empresa
+	Contato
+		E-mails
+		Telefones
+	Endereços*
+
+
+Cadastro de Entidades
+	Nome
+	Tipo de Entidades
+	Abreviação
+	Descrição
+	Endereços*
+
+
+Endereços
+	Estado
+	Município
+	Bairro
+	Rua
+	Número
+	Complemento
+	CEP
+
+Tratamentos
+

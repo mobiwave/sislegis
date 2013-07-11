@@ -1,10 +1,10 @@
 <?php
-/* Conexao PDO
 
-$user = "g.godoy";
-$pass = "g4m0gy";
-$conn = new PDO('mysql:host=192.168.192.104;dbname=otrs', $user, $pass);
+
+$user = "matheus";
+$pass = "";
+$conn = new PDO('mysql:host=127.0.0.1;dbname=sislegis', $user, $pass);
 $conn->query('SET NAMES utf8');
+$conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
-*/
 ?>

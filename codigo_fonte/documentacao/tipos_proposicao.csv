@@ -1,0 +1,150 @@
+1;PL ;Projeto de Lei
+2;PLP ;Projeto de Lei Complementar
+3;MPV ;Medida Provisória
+4;PEC ;Proposta de Emenda à Constituição
+5;PDC ;Projeto de Decreto Legislativo
+6;PRC ;Projeto de Resolução
+7;ADD ;Adendo
+8;APJ ;Anteprojeto
+9;ATC ;Ato Convocatório
+10;TVR ;Ato de Concessão e Renovação de Concessão de Emissora de Rádio e Televisão
+11;ATOP ;Ato do Presidente
+12;AA ;Autógrafo
+13;AV ;Aviso
+14;AVN ;Aviso (CN)
+15;CVO ;Complementação de Voto
+16;CAC ;Comunicado de alteração do controle societário
+17;CON ;Consulta
+18;CCN ;Consulta do Congresso Nacional
+19;CVR ;Contestação ao Voto do Relator
+20;DEC ;Decisão
+21;DVT ;Declaração de Voto
+22;DEN ;Denúncia
+23;DCR ;Denúncia por crime de responsabilidade
+24;DTQ ;Destaque
+25;DOC ;Documentos internos
+26;EMD ;Emenda
+27;EML ;Emenda à LDO
+28;EMA ;Emenda Aglutinativa de Plenário
+29;EMO ;Emenda ao Orçamento
+30;EPP ;Emenda ao Plano Plurianual
+31;ESB ;Emenda ao Substitutivo
+32;EMP ;Emenda de Plenário
+33;ERD ;Emenda de Redação
+34;EMR ;Emenda de Relator
+35;EMRP ;Emenda de Relator Parcial
+36;EMC ;Emenda na Comissão
+37;EAG ;Emenda Substitutiva Aglutinativa Global
+38;ESP ;Emenda Substitutiva de Plenário
+39;EMS ;Emenda/Substitutivo do Senado
+40;ERR ;Errata
+41;EXP ;Exposição
+42;IAN ;IAN
+43;INC ;Indicação
+44;INA ;Indicação de Autoridade
+45;MAN ;Manifestação do Relator
+46;MSC ;Mensagem
+47;MCN ;Mensagem (CN)
+48;MSG ;Mensagem (CN)
+49;MSF ;Mensagem (SF)
+50;RTV ;Mensagem de Rádio e Televisão
+51;MMP ;Mensagem do Ministério Público da União.
+52;MST ;Mensagem do Supremo Tribunal Federal
+53;MTC ;Mensagem do Tribunal de Contas da União
+54;NINF ;Não Informada
+55;NIC ;Norma Interna
+56;OBJ ;Objeto de Deliberação
+57;OF ;Ofício
+58;STF ;Ofício
+59;OFN ;Ofício (CN)
+60;SGM ;Ofício da Mesa
+61;OFS ;Ofício do Senado Federal
+62;OF. ;Ofício Externo
+63;OFT ;OFT
+64;P.C ;Parecer (CD)
+65;PEA ;Parecer à Emenda Aglutinativa
+66;PRST ;Parecer à Redação para o Segundo Turno
+67;PES ;Parecer às emendas apresentadas ao Substitutivo do Relator
+68;PEP ;Parecer às Emendas de Plenario
+69;PSS ;Parecer às Emendas ou ao Substitutivo do Senado
+70;PSS ;Parecer às Emendas ou ao Substitutivo do Senado - Notas Taquigráficas
+71;PAR ;Parecer de Comissão
+72;PARF ;Parecer de Comissão para Redação Final
+73;PRL ;Parecer do Relator
+74;PRP ;Parecer do Relator Parcial
+75;PPP ;Parecer Proferido em Plenário
+76;PPP ;Parecer Proferido em Plenário - Notas Taquigráficas
+77;PRR ;Parecer Reformulado
+78;PPR ;Parecer Reformulado de Plenário
+79;PRT ;Parecer Técnico
+80;PRV ;Parecer Vencedor
+81;PCA ;PCA
+82;PDA ;PDA
+83;PET ;Petição
+84;PRA ;PRA
+85;PDN ;Projeto de Decreto Legislativo (CN)
+86;PDS ;Projeto de Decreto Legislativo (SF)
+87;PLN ;Projeto de Lei (CN)
+88;PLC ;Projeto de Lei da Câmara dos Deputados (SF)
+89;PLV ;Projeto de Lei de Conversão
+90;PLS ;Projeto de Lei do Senado Federal
+91;PLOA ;Projeto de lei orçamentária Anual
+92;PRN ;Projeto de Resolução do Congresso Nacional
+93;PRF ;Projeto de Resolução do Senado Federal
+94;PRO ;Proposta
+95;PFC ;Proposta de Fiscalização e Controle
+96;PRVP ;Proposta de Redação do Vencido em Primeiro Turno
+97;RCM ;RCM
+98;REM ;Reclamação
+99;REC ;Recurso
+100;R.C ;Recurso do Congresso Nacional
+101;RDV ;Redação do Vencido
+102;RDF ;Redação Final
+103;RST ;Redação para o segundo turno
+104;RFP ;"Refomulação de Parecer - art. 130; parágrafo único do RICD."
+105;REL ;Relatório
+106;CAE ;Relatório
+107;CAE ;Relatório de Atividades
+108;RRC ;Relatório de Receita
+109;RRC ;Relatório de Receita (Errata)
+110;COI ;Relatório do COI
+111;RRL ;Relatório do Relator
+112;RLF ;Relatório Final
+113;RPA ;Relatório Parcial
+114;RPL ;Relatório Preliminar
+115;RPL ;Relatório Preliminar (Errata)
+116;RPLE ;Relatório Preliminar com Emendas
+117;RLP ;Relatório Prévio
+118;RLP(R) ;Relatório Prévio Reformulado
+119;RLP(V) ;Relatório Prévio Vencedor
+120;RAT ;Relatório Setorial
+121;REP ;Representação
+122;RPR ;Representação
+123;REQ ;Requerimento
+124;RIC ;Requerimento de Informação
+125;RCP ;Requerimento de Instituição de CPI
+126;RQP ;Requerimento de Plenário
+127;RIN ;Requerimento de Resolução Interna
+128;RQN ;Requerimento do Congresso Nacional
+129;RQA ;RQA
+130;RQC ;RQC
+131;SIT ;Solicitação de Informação ao TCU
+132;SBE ;Subemenda
+133;SAP ;Subemenda Aglutinativa Substitutiva de Plenário
+134;SSP ;Subemenda Substitutiva de Plenário
+135;SBT ;Substitutivo
+136;SUG ;Sugestão
+137;SUC ;Sugestão a Projeto de Consolidação de Leis
+138;SDL ;Sugestão de Emenda à LDO - CLP
+139;SLD ;Sugestão de Emenda à LDO - Comissões
+140;SRL ;Sugestão de Emenda a Relatório
+141;SOA ;Sugestão de Emenda ao Orçamento - CLP
+142;SOR ;Sugestão de Emenda ao Orçamento - Comissões
+143;SPA ;Sugestão de Emenda ao PPA - CLP
+144;SPP ;Sugestão de Emenda ao PPA - Comissões
+145;SPA-R ;Sugestão de Emenda ao PPA - revisão (CLP)
+146;SPP-R ;Sugestão de Emenda ao PPA - revisão (Comissões)
+147;SRAP ;Sugestão de Requerimento de Audiência Pública
+148;SUM ;Súmula
+149;TER ;Termo de Implementação
+150;VTS ;Voto em Separado

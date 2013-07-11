@@ -72,10 +72,6 @@ $xml = new SimpleXMLElement($query_pauta);
 						<option> Reunião </option>
 						<option> Telefonema </option>
 					</select><br />
-					<input type="text" value="prazo" />
-					<input type="text" value="link oficial" />
-					<input type="text" value="relator" />
-					<input type="text" value="Numero Unico do MJ doc (adicionar na inclusão da proposição)" />
 				</td>
 				<td> <textarea rows="5"></textarea>	</td>
 			</tr>
